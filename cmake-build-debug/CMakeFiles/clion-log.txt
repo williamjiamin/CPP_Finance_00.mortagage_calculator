@@ -1,0 +1,4 @@
+"/Users/william/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/201.7223.86/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/usr/bin/make -DCMAKE_C_COMPILER=/Library/Developer/CommandLineTools/usr/bin/clang -DCMAKE_CXX_COMPILER=/Library/Developer/CommandLineTools/usr/bin/c++ -G "CodeBlocks - Unix Makefiles" /Users/william/CLionProjects/00.mortagage_calculator
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/william/CLionProjects/00.mortagage_calculator/cmake-build-debug
